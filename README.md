@@ -148,7 +148,7 @@ For future improvement, we can consider the following ideas:
 
 ## Author
 
-- **AJ Singh** (https://github.com/aj112358/)
+- **Akash Pandey** (https://github.com/akashpan)
 
 
 ## Acknowledgements
